@@ -16,12 +16,6 @@ I love turning ideas into real-world solutions using code 🚀
 
 ---
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosakorn0&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 AI / Data / Full-Stack Tech Stack
 
 ### 🤖 AI & Data
