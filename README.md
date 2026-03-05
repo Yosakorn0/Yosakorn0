@@ -1,9 +1,5 @@
 # Hi there 👋 I'm **Yosakorn Sirisoot**
 ### 🧠 AI • Data • Full-Stack Developer
-
-I’m a passionate developer who enjoys building **intelligent systems**, **data-driven applications**, and **scalable full-stack platforms**.  
-I love turning ideas into real-world solutions using code 🚀
-
 ---
 
 ## 🧠 About Me
@@ -31,6 +27,8 @@ I love turning ideas into real-world solutions using code 🚀
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-0A192F?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Ruby](https://img.shields.io/badge/Ruby-0A192F?style=for-the-badge&logo=ruby&logoColor=CC342D)
 
 ---
 
@@ -38,6 +36,12 @@ I love turning ideas into real-world solutions using code 🚀
 ![REST API](https://img.shields.io/badge/REST_API-0A192F?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+---
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-0A192F?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0A192F?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 
 ---
 
